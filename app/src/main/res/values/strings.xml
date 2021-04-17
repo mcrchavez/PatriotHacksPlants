@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sleep Scheduler</string>
+    <string name="tab_text_1">Week 1</string>
+    <string name="tab_text_2">Week 2</string>
+</resources>
